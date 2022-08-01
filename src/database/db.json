@@ -1,0 +1,47 @@
+{
+    "articles": [
+        {
+            "id": "1",
+            "headline": "Lorem ipsum dolor sit amet. ",
+            "subtext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vel consectetur interdum, nisl nisi consectetur nisi, eget consectetur nisi nisi velit.",
+            "topic": "sports",
+            "image": "images/weight-lifter.jpeg"
+        },
+        {
+            "id": "2",
+            "headline": "Lorem ipsum dolor sit amet. ",
+            "subtext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vel consectetur interdum, nisl nisi consectetur nisi, eget consectetur nisi nisi velit.",
+            "topic": "arts",
+            "image": "images/break-dancer.jpeg"
+        },
+        {
+            "id": "3",
+            "headline": "Lorem ipsum dolor sit amet. ",
+            "subtext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vel consectetur interdum, nisl nisi consectetur nisi, eget consectetur nisi nisi velit.",
+            "topic": "tech",
+            "image": "images/robot.jpeg"
+        },
+        {
+            "id": "4",
+            "headline": "Lorem ipsum dolor sit amet. ",
+            "subtext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vel consectetur interdum, nisl nisi consectetur nisi, eget consectetur nisi nisi velit.",
+            "topic": "science",
+            "image": "images/skull.jpeg"
+        },
+        {
+            "id": "5",
+            "headline": "Lorem ipsum dolor sit amet. ",
+            "subtext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vel consectetur interdum, nisl nisi consectetur nisi, eget consectetur nisi nisi velit.",
+            "topic": "food",
+            "image": "images/french-toast.jpeg"
+        },
+        {
+            "id": "6",
+            "headline": "Lorem ipsum dolor sit amet. ",
+            "subtext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vel consectetur interdum, nisl nisi consectetur nisi, eget consectetur nisi nisi velit.",
+            "topic": "food",
+            "image": "images/snowboarder.jpeg"
+        }
+        
+    ]
+}
